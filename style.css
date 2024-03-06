@@ -1,0 +1,271 @@
+.emoji-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    padding: 20px;
+}
+
+.emoji {
+    font-size: 48px;
+    /* Adjust size as needed */
+    text-align: center;
+}
+
+.emoji:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+#e1::before {
+    content: "\1F602";
+}
+
+/* 😂 */
+#e2::before {
+    content: "\2764\FE0F";
+}
+
+/* ❤️ */
+#e3::before {
+    content: "\1F60D";
+}
+
+/* 😍 */
+
+#e4::before {
+    content: "\1F923";
+}
+
+/* 🤣 */
+#e5::before {
+    content: "\1F60A";
+}
+
+/* 😊 */
+#e6::before {
+    content: "\1F64F";
+}
+
+/* 🙏 */
+#e7::before {
+    content: "\1F495";
+}
+
+/* 💕 */
+#e8::before {
+    content: "\1F62D";
+}
+
+/* 😭 */
+#e9::before {
+    content: "\1F618";
+}
+
+/* 😘 */
+#e10::before {
+    content: "\1F970";
+}
+
+/* 🥰 */
+#e11::before {
+    content: "\1F601";
+}
+
+/* 😁 */
+#e12::before {
+    content: "\1F44D";
+}
+
+/* 👍 */
+#e13::before {
+    content: "\1F605";
+}
+
+/* 😅 */
+#e14::before {
+    content: "\1F60E";
+}
+
+/* 😎 */
+#e15::before {
+    content: "\263A\FE0F";
+}
+
+/* ☺️ */
+#e16::before {
+    content: "\1F603";
+}
+
+/* 😃 */
+#e17::before {
+    content: "\1F525";
+}
+
+/* 🔥 */
+#e18::before {
+    content: "\1F64C";
+}
+
+/* 🙌 */
+#e19::before {
+    content: "\1F389";
+}
+
+/* 🎉 */
+#e20::before {
+    content: "\2728";
+}
+
+/* ✨ */
+#e21::before {
+    content: "\1F44F";
+}
+
+/* 👏 */
+#e22::before {
+    content: "\1F4AF";
+}
+
+/* 💯 */
+#e23::before {
+    content: "\1F37B";
+}
+
+/* 🍻 */
+#e24::before {
+    content: "\1F49B";
+}
+
+/* 💛 */
+#e25::before {
+    content: "\1F499";
+}
+
+/* 💙 */
+#e26::before {
+    content: "\1F49A";
+}
+
+/* 💚 */
+#e27::before {
+    content: "\1F49C";
+}
+
+/* 💜 */
+#e28::before {
+    content: "\1F9E1";
+}
+
+/* 🧡 */
+#e29::before {
+    content: "\1F60D";
+}
+
+/* 😍 */
+#e30::before {
+    content: "\1F618";
+}
+
+/* 😘 */
+
+
+#s1::before {
+    content: "\2600";
+}
+
+/* ☀️ Sun */
+#s2::before {
+    content: "\2601";
+}
+
+/* ☁️ Cloud */
+#s3::before {
+    content: "\2614";
+}
+
+/* ☔ Umbrella with Rain Drops */
+#s4::before {
+    content: "\1F327";
+}
+
+/* 🌧️ Cloud with Rain */
+#s5::before {
+    content: "\1F31E";
+}
+
+/* 🌞 Sun with Face */
+#s6::before {
+    content: "\2B50";
+}
+
+/* ⭐ Star */
+#s7::before {
+    content: "\1F381";
+}
+
+/* 🎁 Gift */
+#s8::before {
+    content: "\1F4A3";
+}
+
+/* 💣 Bomb */
+#s9::before {
+    content: "\1F4B0";
+}
+
+/* 💰 Money Bag */
+#s10::before {
+    content: "\1F4A9";
+}
+
+/* 💩 Pile of Poo */
+#s11::before {
+    content: "\1F525";
+}
+
+/* 🔥 Fire */
+#s12::before {
+    content: "\1F680";
+}
+
+/* 🚀 Rocket */
+#s13::before {
+    content: "\1F697";
+}
+
+/* 🚗 Automobile */
+#s14::before {
+    content: "\1F3C6";
+}
+
+/* 🏆 Trophy */
+#s15::before {
+    content: "\1F4F1";
+}
+
+/* 📱 Mobile Phone */
+#s16::before {
+    content: "\1F514";
+}
+
+/* 🔔 Bell */
+#s17::before {
+    content: "\1F6F8";
+}
+
+/* 🛸 Flying Saucer */
+#s18::before {
+    content: "\1F9EE";
+}
+
+/* 🧮 Abacus */
+#s19::before {
+    content: "\1F9F0";
+}
+
+/* 🧰 Toolbox */
+#s20::before {
+    content: "\1F9EA";
+}
+
+/* 🧪 Test Tube */
